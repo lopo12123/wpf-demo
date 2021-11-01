@@ -26,14 +26,11 @@
             </ControlTemplate.Triggers>
         </ControlTemplate>
     </Window.Resources>
-    <Border CornerRadius="10 10 10 10">
-        <Border.Background>
-            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
-                <GradientStop Color="#ffffff" Offset="0"></GradientStop>
-                <GradientStop Color="#cccccc" Offset="1"></GradientStop>
-            </LinearGradientBrush>
-        </Border.Background>
+    <Border CornerRadius="10 10 10 10" Background="#FFFFFF">
         <Grid>
+            <Border Background="#0C9BE4">
+                <Path Data="M0 0 0 10 10 0 10 10"></Path>
+            </Border>
             <Button Width="20" Height="20" Margin="10 10 10 10"
                     VerticalAlignment="Top" HorizontalAlignment="Right"
                     Template="{StaticResource CloseButton}">

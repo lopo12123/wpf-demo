@@ -8,26 +8,27 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\20366\\.nuget\\packages\\": {}
+    "C:\\Users\\suc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\WPF\\cowork\\Project\\Project.csproj",
+      "projectUniqueName": "D:\\GitProjects\\wpf-demo\\Project\\Project.csproj",
       "projectName": "Project",
-      "projectPath": "D:\\GitHub\\WPF\\cowork\\Project\\Project.csproj",
-      "packagesPath": "C:\\Users\\20366\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\WPF\\cowork\\Project\\obj\\",
+      "projectPath": "D:\\GitProjects\\wpf-demo\\Project\\Project.csproj",
+      "packagesPath": "C:\\Users\\suc\\.nuget\\packages\\",
+      "outputPath": "D:\\GitProjects\\wpf-demo\\Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\20366\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\suc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {

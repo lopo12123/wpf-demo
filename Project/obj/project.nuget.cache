@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "76lGYIwGOd5Xdr78iSqF2qPt4LohJSPUWqbCecbddj7e0lZZCrzxk9lHbokZiu+kBAZUDGeYF32U/6/jvUrkIw==",
+  "dgSpecHash": "n506b3Ds+aGGGnMAnqKs7FtaTjK+dd2GlbJclsf8TxxNkDkklzyd2qto16cK/4xBPBA2IR7ocl2tPTOFFe6zUg==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\WPF\\cowork\\Project\\Project.csproj",
+  "projectFilePath": "D:\\GitProjects\\wpf-demo\\Project\\Project.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
